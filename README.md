@@ -51,7 +51,7 @@
   </tr>
       <tr>
     <td><h1 align="center">
-  <img alt="pauselight" title="pauselight" ssrc="screenshots/pauselight.png" width="295" height="553" />
+  <img alt="pauselight" title="pauselight" src="screenshots/pauselight.png" width="295" height="553" />
 </h1></td>
            <td><h1 align="center">
   <img alt="timerlightpausado" title="timerlightpausado" src="screenshots/timerlightpausado.png" width="295" height="553" />
