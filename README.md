@@ -35,26 +35,26 @@
  <table style="width:100%">
   <tr>
     <td><h1 align="center">
-  <img alt="Profile Page" title="Profile Page" src="screenshots/homepagelight.png"  width="295" height="553" />
+  <img alt="homepagelight" title="homepagelight Page" src="screenshots/homepagelight.png"  width="295" height="553" />
 </h1></td>
     <td><h1 align="center">
-  <img alt="School" title="School" src="screenshots/homepagedark.png" width="295" height="553" />
+  <img alt="homepagedark" title="homepagedark" src="screenshots/homepagedark.png" width="295" height="553" />
 </h1></td> 
     </tr>
       <tr>
     <td><h1 align="center">
-  <img alt="Work" title="Work" src="screenshots/timerlight.png" /> width="295" height="553" />
+  <img alt="timerlight" title="timerlight" src="screenshots/timerlight.png" width="295" height="553" />
 </h1></td>
            <td><h1 align="center">
-  <img alt="Work" title="Work" src="screenshots/timerdark.png" /> width="295" height="553" />
+  <img alt="timerdark" title="timerdark" src="screenshots/timerdark.png" width="295" height="553" />
 </h1></td>
   </tr>
       <tr>
     <td><h1 align="center">
-  <img alt="Work" title="Work" ssrc="screenshots/pauselight.png"/> width="295" height="553" />
+  <img alt="pauselight" title="pauselight" ssrc="screenshots/pauselight.png" width="295" height="553" />
 </h1></td>
            <td><h1 align="center">
-  <img alt="Work" title="Work" src="screenshots/timerlightpausado.png" /> width="295" height="553" />
+  <img alt="timerlightpausado" title="timerlightpausado" src="screenshots/timerlightpausado.png" width="295" height="553" />
 </h1></td>
   </tr>
  </table>
