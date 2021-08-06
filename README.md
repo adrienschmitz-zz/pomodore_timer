@@ -32,13 +32,32 @@
 
 <b>Screenshots:</b>
 
- <img alt="Profile Page" title="Calculator" src="screenshots/homepagelight.png" />
- <img alt="Profile Page" title="Calculator" src="screenshots/homepagedark.png" />
- <img alt="Profile Page" title="Calculator" src="screenshots/timerlight.png" />
- <img alt="Profile Page" title="Calculator" src="screenshots/timerdark.png" />
- <img alt="Profile Page" title="Calculator" src="screenshots/pauselight.png" />
- <img alt="Profile Page" title="Calculator" src="screenshots/timerlightpausado.png" />
- 
+ <table style="width:100%">
+  <tr>
+    <td><h1 align="center">
+  <img alt="Profile Page" title="Profile Page" src="screenshots/homepagelight.png"  width="295" height="553" />
+</h1></td>
+    <td><h1 align="center">
+  <img alt="School" title="School" src="screenshots/homepagedark.png" width="295" height="553" />
+</h1></td> 
+    </tr>
+      <tr>
+    <td><h1 align="center">
+  <img alt="Work" title="Work" src="screenshots/timerlight.png" /> width="295" height="553" />
+</h1></td>
+           <td><h1 align="center">
+  <img alt="Work" title="Work" src="screenshots/timerdark.png" /> width="295" height="553" />
+</h1></td>
+  </tr>
+      <tr>
+    <td><h1 align="center">
+  <img alt="Work" title="Work" ssrc="screenshots/pauselight.png"/> width="295" height="553" />
+</h1></td>
+           <td><h1 align="center">
+  <img alt="Work" title="Work" src="screenshots/timerlightpausado.png" /> width="295" height="553" />
+</h1></td>
+  </tr>
+ </table>
  
  
 ### Author
